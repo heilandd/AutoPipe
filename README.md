@@ -19,7 +19,7 @@ Easy-to-Use: The pipeline was designed to be user-friendly and applicable for no
 Compatible: The pipeline should be feasible for array based transcriptomic data as well as RNA sequencing outputs. For further clinical interpretation, external traits need to be easily integrated and included in the analysis.
 
 
-
+The Repository is moved to falafel19/AutoPipe
 
 
 
