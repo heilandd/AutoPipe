@@ -20,7 +20,7 @@ Compatible: The pipeline should be feasible for array based transcriptomic data 
 
 
 ## The Repository is moved to 
-'''falafel19/AutoPipe'''
+```falafel19/AutoPipe```
 
 
 
